@@ -1,22 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:36:57.460211
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:42
 #+TITLE: 佛說最上意陀羅尼經
 #+PROPERTY: CBETA_ID T21n1408
 #+PROPERTY: ID KR6j0640
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1408
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0640_T_000-0922c>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0640_T_001-0922c> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1408¶
-
- 佛說最上意陀羅尼經¶
+No. 1408¶
+佛說最上意陀羅尼經¶
 ¶
-西天譯經三藏朝散大夫試鴻臚少卿¶
+西天〔譯經〕－【明】譯經三藏朝散大夫試鴻臚少卿傳法＝教【明】法大師〔臣〕－【明】臣譯經三藏朝散大夫試鴻臚少卿¶
 傳法大師臣施護奉　詔譯¶
 
 如是我聞。一時佛在救鴿城牛頭栴檀精舍。¶
